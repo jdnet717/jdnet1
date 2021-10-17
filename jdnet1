@@ -1,6 +1,28 @@
 # EXTM3U
 
  
+ #EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37056
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37057
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37058
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37059
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37060
+
+ 
+ #EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37016
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37017
+
     #EXTINF: -1 tvg-id = "" tvg-name = "BAND SPORTS" tvg-logo = "https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title = "ESPORTES", BAND SPORTS
 http://tv.factoryiptv.com/cassia1234/36989
  
