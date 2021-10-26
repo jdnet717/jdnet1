@@ -1,0 +1,270 @@
+# EXTM3U
+
+ 
+ #EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37056
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37057
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37058
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37059
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37060
+
+ 
+ #EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37016
+
+#EXTINF:0,PREMIERE
+http://tv.factoryiptv.com/cassia123/cassia1234/37017
+
+    #EXTINF: -1 tvg-id = "" tvg-name = "BAND SPORTS" tvg-logo = "https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title = "ESPORTES", BAND SPORTS
+http://tv.factoryiptv.com/cassia1234/36989
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "ESPN" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/espn.png" group-title = " ESPORTES ", ESPN  
+http://tv.factoryiptv.com/cassia123/cassia1234/37104
+
+ 
+ 
+ 
+ #EXTINF: -1 tvg-id = "" tvg-name = "FOX SPORTS2" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title = "ESPORTES", FOX SPORTS2
+http://tv.factoryiptv.com/cassia123/cassia1234/37098
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX SPORTS" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title = "ESPORTES", FOX SPORTS
+http://tv.factoryiptv.com/cassia123/cassia1234/37099
+ 
+
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX SPORTS" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBo0RQzwMN6aen2RnpqT4hbjLf_eiUJmTTpw&usqp=CAU" group-title = "ESPORTES", COMBATE
+http://tv.factoryiptv.com/cassia123/cassia1234/37119
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX SPORTS" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoeWKeBQQb4QFBJ5FqEZK9g_8C-h1gNYkxZA&usqp=CAU" group-title = "ESPORTES", PREMIERE CLUBES
+http://tv.factoryiptv.com/cassia123/cassia1234/37016
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" grupo -title = "CANAIS BR", GLOBO
+http://tv.factoryiptv.com/cassia123/cassia1234/37090
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "SBT SP" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" título-grupo = "CANAIS BR", SBT SP
+http://tv.factoryiptv.com/cassia123/cassia1234/36945
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "BAND SP" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title = "CANAIS BR", BAND SP
+http://tv.factoryiptv.com/cassia123/cassia1234/37127
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "RECORD" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title = " CANAIS BR ", RECORD
+http://tv.factoryiptv.com/cassia123/cassia1234/36947
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "REDE TV" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title = "CANAIS BR", REDE TV
+http://tv.factoryiptv.com/cassia123/cassia1234/37012
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX PREMIUM" tvg-logo = "" group-title = "FILMES", TNT SERIES
+http://tv.factoryiptv.com/cassia123/cassia1234/36933
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX" tvg-logo = "" group-title = "FILMES", A&E
+http://tv.factoryiptv.com/cassia123/cassia1234/36929
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TNT" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png" group-title = "FILMES", TNT
+http://tv.factoryiptv.com/cassia123/cassia1234/36934
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TNT" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title = " FILMES ", HBO2
+http://tv.factoryiptv.com/cassia123/cassia1234/36966
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "TNT" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title = " FILMES ", HBO
+http://tv.factoryiptv.com/cassia123/cassia1234/37084
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TELECINE PIPOCA" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title = "FILMES", TELECINE PIPOCA    
+http://tv.factoryiptv.com/cassia123/cassia1234/37037
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TELECINE" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title = " FILMES ", TELECINE FUN
+http://tv.factoryiptv.com/cassia123/cassia1234/37005
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TELECINE" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title = " FILMES ", AÇÃO ACTION
+http://tv.factoryiptv.com/cassia123/cassia1234/37040
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TELECINE PIPOCA" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hboplus.png" group-title = "FILMES", HBO SIGNATURE
+http://tv.factoryiptv.com/cassia123/cassia1234/37082
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "ESPAÇO" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title = " FILMES ", SPACE
+http://tv.factoryiptv.com/cassia123/cassia1234/37046
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "MEGAPIX" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title = " FILMES ", HBO FAMILY  
+http://tv.factoryiptv.com/cassia123/cassia1234/37085
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "HBO" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title = " FILMES ",PARAMONT CHANNEL
+http://tv.factoryiptv.com/cassia123/cassia1234/37062
+
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "FX" tvg-logo = "" group-title = " FILMES ", FX
+http://tv.factoryiptv.com/cassia123/cassia1234/37097
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TOONCAST" tvg-logo = "" group-title = "DESENHOS", TONCAST
+http://tv.factoryiptv.com/cassia123/cassia1234/37033
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "NICKELODEON" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/nick.png" group-title = " DESENHOS ", NICK
+http://tv.factoryiptv.com/cassia123/cassia1234/36907
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "NICK JR" "group-title =" DESENHOS ", NICK JR
+http://tv.factoryiptv.com/cassia123/cassia1234/37064
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DISNEY" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png" group-title = "DESENHOS", DISNEY XD
+http://tv.factoryiptv.com/cassia123/cassia1234/37109
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DISNEY" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/disneyjr.png" group-title = "DESENHOS", DISNEY JR
+http://tv.factoryiptv.com/cassia123/cassia1234/37110
+
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DISNEY" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title = "DESENHOS", DISNEY CHANNEL
+http://tv.factoryiptv.com/cassia123/cassia1234/37111
+
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "BOOMERANG" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/boomerang.png" group-title = " DESENHOS ", BOOMERANG
+http://tv.factoryiptv.com/cassia123/cassia1234/37123
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "ANIMAL PLANET" tvg-logo = "" group-title = "DOCUMENTARIOS", ANIMAL PLANET
+http://tv.factoryiptv.com/cassia123/cassia1234/37128
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "DISCOVERY CHANNEL" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title = "DOCUMENTARIOS", DISCOVERY CHANNEL
+http://tv.factoryiptv.com/cassia123/cassia1234/37116
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "DISCOVERY CHANNEL" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title = "DOCUMENTARIOS", DISCOVERY H&H
+http://tv.factoryiptv.com/cassia123/cassia1234/37115
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "DISCOVERY CHANNEL" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png" group-title = "DOCUMENTARIOS", DISCOVERY TURBO
+http://tv.factoryiptv.com/cassia123/cassia1234/37112
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DE HISTÓRIA" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title = "DOCUMENTARIOS", HISTORY
+http://tv.factoryiptv.com/cassia123/cassia1234/37081
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DE HISTÓRIA" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title = "DOCUMENTARIOS", H2
+http://tv.factoryiptv.com/cassia123/cassia1234/36961
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "DISCOVERY" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/natgeo.png" group-title = " DOCUMENTARIOS ", NAT GEO WILD
+http://tv.factoryiptv.com/cassia123/cassia1234/37066
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "NATIONAL GEOGRAPHIC" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title = "DOCUMENTARIOS", NATIONAL GEOGRAPHIC
+http://tv.factoryiptv.com/cassia123/cassia1234/37068
+ 
+ 
+ 
+ 
+ #EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "NOTICIAS", VIVA 
+http://tv.factoryiptv.com/cassia123/cassia1234/36931
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "NOTICIAS", COMEDY CENTRAL
+http://tv.factoryiptv.com/cassia123/cassia1234/37118
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/bandnews.png" group-title = "NOTICIAS", BAND NEWS
+http://tv.factoryiptv.com/cassia123/cassia1234/37126
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/bandnews.png" group-title = "NOTICIAS", RECORD NEWS
+http://tv.factoryiptv.com/cassia123/cassia1234/37093
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/bandnews.png" group-title = "NOTICIAS", GLOBO NEWS
+http://tv.factoryiptv.com/cassia123/cassia1234/37093
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "canais 24 horas", Galinha Pintadinha
+http://tv.factoryiptv.com/cassia123/cassia1234/39570
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "canais 24 horas", PEPA PIG
+http://tv.factoryiptv.com/cassia123/cassia1234/39572
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "canais 24 horas", CHAVES
+http://tv.factoryiptv.com/cassia123/cassia1234/39762
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "canais 24 horas", TODO MUNDO ODEIA O CRIS
+http://tv.factoryiptv.com/cassia123/cassia1234/56467
+
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "canais 24 horas", SOBRENATURAL
+http://tv.factoryiptv.com/cassia123/cassia1234/58093
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "canais 24 horas", CACEREIROS
+http://tv.factoryiptv.com/cassia123/cassia1234/62279
+
+
+
